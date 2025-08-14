@@ -8,7 +8,6 @@
 Tech-focused Product Manager with an entrepreneurial background in building MVPs, leading cross-functional teams, and launching products that solve real-world problems.
 
 -  6+ MVPs shipped in 2025 alone
--  Founder of an NGO serving 160+ families
 -  Skilled in user research, feature prioritization, UX design, and GTM execution
 
 ##  Featured Work
