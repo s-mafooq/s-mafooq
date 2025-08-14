@@ -15,7 +15,8 @@ Tech-focused Product Manager with an entrepreneurial background in building MVPs
 - Digitized local body meeqat processes
 - Designed user flows, admin panel, and feature prioritization
 - Launched as open-source, adopted by the Kér tech community
-- [Repo](https://github.com/s-mafooq/srinagar-masjid-data-collector)  •  [Prototype](https://v0-masjid-app-design.vercel.app/)
+- [Repo](https://github.com/s-mafooq/srinagar-masjid-data-collector)
+- [Prototype](https://v0-masjid-app-design.vercel.app/)
 
 ### 2. Travel Booking & Companion Web App
 - Increased retention by 90% via gamification & personalized itineraries
